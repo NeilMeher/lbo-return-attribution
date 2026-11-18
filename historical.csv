@@ -1,0 +1,9 @@
+field,value_usd_m,period,locator
+revenue,994.985,FY2024,Consolidated Statements of Income page 65
+operating_income,92.424,FY2024,Consolidated Statements of Income page 65
+depreciation,40.223,FY2024,Consolidated Statements of Income page 65
+amortization,19.935,FY2024,Consolidated Statements of Income page 65
+capex,39.104,FY2024,Consolidated Statements of Cash Flows page 68
+cash,192.166,2024-12-31,Consolidated Balance Sheets page 64
+debt_current,14.809,2024-12-31,Consolidated Balance Sheets page 64
+debt_long,241.357,2024-12-31,Consolidated Balance Sheets page 64
